@@ -183,14 +183,6 @@ Security notes:
 ## Contact / authorship
 Project author: Anurag Kotla
 
-----
-
-If you'd like, I can:
-- add a one-command developer Makefile or PowerShell script that sets up a venv and runs the server,
-- create GitHub Actions workflow to mirror the Jenkins pipeline,
-- or scaffold a small unit test suite and run it.
-
-Tell me which follow-up you'd prefer and I can implement it next.
 ```
 **Project Document Link:** https://docs.google.com/document/d/1VlHirN62sWE1CwXr4v2YM40sg8luskD6VY4A2gKOHK4/edit?usp=sharing
 ```
